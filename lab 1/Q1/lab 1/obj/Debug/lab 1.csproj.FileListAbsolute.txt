@@ -1,0 +1,8 @@
+E:\labs\lab 1\lab 1\lab 1\obj\Debug\lab 1.csproj.AssemblyReference.cache
+E:\labs\lab 1\lab 1\lab 1\obj\Debug\lab 1.csproj.SuggestedBindingRedirects.cache
+E:\labs\lab 1\lab 1\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+E:\labs\lab 1\lab 1\lab 1\bin\Debug\lab 1.exe.config
+E:\labs\lab 1\lab 1\lab 1\bin\Debug\lab 1.exe
+E:\labs\lab 1\lab 1\lab 1\bin\Debug\lab 1.pdb
+E:\labs\lab 1\lab 1\lab 1\obj\Debug\lab 1.exe
+E:\labs\lab 1\lab 1\lab 1\obj\Debug\lab 1.pdb
