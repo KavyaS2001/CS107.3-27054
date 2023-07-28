@@ -1,0 +1,8 @@
+E:\labs\lab 2\Q1\Q1\bin\Debug\Q1.exe.config
+E:\labs\lab 2\Q1\Q1\bin\Debug\Q1.exe
+E:\labs\lab 2\Q1\Q1\bin\Debug\Q1.pdb
+E:\labs\lab 2\Q1\Q1\obj\Debug\Q1.csproj.AssemblyReference.cache
+E:\labs\lab 2\Q1\Q1\obj\Debug\Q1.csproj.SuggestedBindingRedirects.cache
+E:\labs\lab 2\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+E:\labs\lab 2\Q1\Q1\obj\Debug\Q1.exe
+E:\labs\lab 2\Q1\Q1\obj\Debug\Q1.pdb

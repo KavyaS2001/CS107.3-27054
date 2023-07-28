@@ -1,0 +1,8 @@
+E:\labs\lab 2\Q5\Q5\obj\Debug\Q5.csproj.AssemblyReference.cache
+E:\labs\lab 2\Q5\Q5\obj\Debug\Q5.csproj.SuggestedBindingRedirects.cache
+E:\labs\lab 2\Q5\Q5\obj\Debug\Q5.csproj.CoreCompileInputs.cache
+E:\labs\lab 2\Q5\Q5\bin\Debug\Q5.exe.config
+E:\labs\lab 2\Q5\Q5\bin\Debug\Q5.exe
+E:\labs\lab 2\Q5\Q5\bin\Debug\Q5.pdb
+E:\labs\lab 2\Q5\Q5\obj\Debug\Q5.exe
+E:\labs\lab 2\Q5\Q5\obj\Debug\Q5.pdb
